@@ -44,3 +44,5 @@ for num in range(10):
     if isEven(num+1):
         print(num+1)
 print('-'*50)
+
+#%%
