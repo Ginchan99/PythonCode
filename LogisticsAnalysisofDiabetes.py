@@ -62,7 +62,7 @@ plt.xlabel('Predicted label')
 plt.show()
 
 #%%
-from sklearn.metrics import classification_report
+from sklearn.met rics import classification_report
 clf = classification_report(YVals_test,YPred,target_names=['without diabetes','with diabetes'])
 print("Classification report = ",clf)
 #%%
