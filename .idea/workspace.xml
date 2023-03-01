@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86861c56-0043-4bf2-b100-0ac4383d9ce3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/textCompletion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatGPT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
